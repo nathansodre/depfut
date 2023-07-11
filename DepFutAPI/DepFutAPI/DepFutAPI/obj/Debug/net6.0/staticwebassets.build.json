@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4UI2zyBcPE3UMsWAHru3q5KXiQ3rtuOg2wYJ0+az7ok=",
+  "Source": "DepFutAPI",
+  "BasePath": "_content/DepFutAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
